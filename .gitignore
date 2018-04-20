@@ -5,3 +5,4 @@ server/package-lock.json
 config/config.js
 package-lock.json
 build
+.vscode
